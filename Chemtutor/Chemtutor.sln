@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Chemtutor", "Chemtutor\Chemtutor.jsproj", "{1CB5A219-C2AA-49FF-9044-903B7140661C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Android.ActiveCfg = Debug|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Android.Build.0 = Debug|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Android.Deploy.0 = Debug|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|iOS.ActiveCfg = Debug|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|iOS.Build.0 = Debug|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|iOS.Deploy.0 = Debug|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Android.ActiveCfg = Release|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Android.Build.0 = Release|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Android.Deploy.0 = Release|Android
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|iOS.ActiveCfg = Release|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|iOS.Build.0 = Release|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|iOS.Deploy.0 = Release|iOS
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{1CB5A219-C2AA-49FF-9044-903B7140661C}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA19733-9964-48A7-B28C-BC7A25168FD3}
+	EndGlobalSection
+EndGlobal
